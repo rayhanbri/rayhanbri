@@ -1,4 +1,4 @@
-![banner](https://i.ibb.co/Y2Hj6wH/dev-banner.png) <!-- Replace with your own hosted banner -->
+![banner](https://i.ibb.co/BHH3s96b/Untitled-design-1.png) <!-- Replace with your own hosted banner -->
 
 # 👋 Hi, I’m **Rayhan**
 ### 💻 Full Stack Web Developer (MERN)  
