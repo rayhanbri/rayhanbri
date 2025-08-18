@@ -50,8 +50,8 @@ I’m a passionate web developer focused on building full-stack applications usi
 ## 🔗 Connect with Me
 
 - [GitHub](https://github.com/rayhanbri)
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-- [Twitter](https://twitter.com/YOUR-TWITTER) <!-- Optional -->
+- [LinkedIn](https://www.linkedin.com/in/md-rayhan123/)
+ 
 
 ---
 
